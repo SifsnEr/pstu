@@ -12,7 +12,7 @@ int main()
     {
         a /= 10;
     }
-    else if (a > 7)
+    else
     {
         a += 3;
     }
