@@ -2,9 +2,9 @@
 CHECKLIST\
                code           flowchart\
 1:\
-1_1\            [x]               [x]
-1_2\            [x]               [x]
-1_2\            [x]               [x]
+1_1             [x]               [x]\
+1_2             [x]               [x]\
+1_2             [x]               [x]\
 \
 Pointers:\
 1_switch\       [x]               [x]
