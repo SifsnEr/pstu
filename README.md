@@ -2,10 +2,9 @@
 # CHECKLIST
 ## SEM 1
 
-| | code  | flowchart |
+|   | code  | flowchart |
 | - | ------------- | ------------- |
-
-### Pointers
+|Pointers|          |               |
 
 1_switch\       [x]               [x]
 1_pointer\      [x]               [x]
