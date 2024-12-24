@@ -2,7 +2,7 @@
 # CHECKLIST
 ## SEM 1
 
-| First Header  | Second Header |
+| code  | flowchart |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
