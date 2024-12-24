@@ -2,14 +2,11 @@
 # CHECKLIST
 ## SEM 1
 
-| code  | flowchart |
-| ------------- | ------------- |
+| | code  | flowchart |
+| - | ------------- | ------------- |
 
 ### Pointers
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
+
 1_switch\       [x]               [x]
 1_pointer\      [x]               [x]
 2_pointer\      [x]               [x]
