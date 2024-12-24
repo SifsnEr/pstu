@@ -1,6 +1,7 @@
 ### Якупов Артем ИВТ-24-1б
 # CHECKLIST
-code flowchart\
+## SEM 1
+**code** **flowchart**\
 ‎
 1:\
 1_1             [x]               [x]\
