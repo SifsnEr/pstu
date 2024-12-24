@@ -1,12 +1,11 @@
 ### Якупов Артем ИВТ-24-1б
 # CHECKLIST
 ## SEM 1
-|**code** |**flowchart**|
-‎
-|---------|-------------|  
-| [x]     |[x]          |
-|  [x]    |[x]          |
-|  [x]    |[x]          | 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ### Pointers
 1_switch\       [x]               [x]
 1_pointer\      [x]               [x]
