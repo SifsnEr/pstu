@@ -5,13 +5,12 @@
 |   | code  | flowchart |
 | - | ------------- | ------------- |
 |Pointers|          |               |
-
-1_switch\       [x]               [x]
-1_pointer\      [x]               [x]
-2_pointer\      [x]               [x]
-3_pointer\      [x]               [x]
-4_pointer\      [x]               [x]
-5_poiner\       [x]               [x]
+| - | - | - |
+|1_pointer      [x]               [x]
+2_pointer      [x]               [x]
+3_pointer      [x]               [x]
+4_pointer      [x]               [x]
+5_poiner\      [x]               [x]
 ### Switch
 1_switch       [x]               [x]
 ### 2
