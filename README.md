@@ -3,23 +3,20 @@
 ## SEM 1
 **code** **flowchart**\
 ‎
-1:\
+### 1
 1_1             [x]               [x]\
 1_2             [x]               [x]\
 1_2             [x]               [x]\
-\
-Pointers:\
+### Pointers
 1_switch\       [x]               [x]
 1_pointer\      [x]               [x]
 2_pointer\      [x]               [x]
 3_pointer\      [x]               [x]
 4_pointer\      [x]               [x]
 5_poiner\       [x]               [x]
-\
-Switch:
+### Switch
 1_switch\       [x]               [x]
-\
-2:\
+### 2
 2_1\            [x]               [x]
 2_2\            [x]               [x]
 2_3\            [x]               [x]
