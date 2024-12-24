@@ -3,10 +3,10 @@
 ## SEM 1
 
 | code  | flowchart |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 ### Pointers
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 1_switch\       [x]               [x]
 1_pointer\      [x]               [x]
 2_pointer\      [x]               [x]
