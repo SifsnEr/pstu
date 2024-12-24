@@ -1,6 +1,6 @@
-Якупов Артем ИВТ-24-1б\
-CHECKLIST\
-‎               code            flowchart\
+###Якупов Артем ИВТ-24-1б\
+#CHECKLIST\
+‎##               code            flowchart\
 1:\
 1_1             [x]               [x]\
 1_2             [x]               [x]\
