@@ -49,6 +49,7 @@
 |   | code | flowchart |  |
 | - | ------------- | ------------- | - |
 |4_lab| ✔️ | ✔️ | 4_lab |
+|  |  |  |  |
 |simple_sorts|  |  |  |
 |bubble_sort| ✔️ | ❌ | simple_sorts/bubble_sort |
 |insertion_sort| ✔️ | ❌ | simple_sorts/insertion_sort |
