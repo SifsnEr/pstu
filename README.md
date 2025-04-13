@@ -1,5 +1,7 @@
 ### Якупов Артем ИВТ-24-1б
 # CHECKLIST
+[SEM 1](https://github.com/SifsnEr/pstu/blob/main/README.md#sem-1)
+[SEM 2](https://github.com/SifsnEr/pstu/blob/main/README.md#sem-2)
 ## SEM 1
 
 |   | code  | flowchart |
@@ -42,3 +44,15 @@
 |2_23| ✔️ | ✔️ |
 |recursion| | |
 |recursion| ❌ | ❌ |
+
+## SEM 2
+|   | code | flowchart |  |
+| - | ------------- | ------------- | - |
+|4_lab| ✔️ | ✔️ | 4_lab |
+|  |  |  |  |
+|simple_sorts|  |  |  |
+|bubble_sort| ✔️ | ❌ | simple_sorts/bubble_sort |
+|insertion_sort| ✔️ | ❌ | simple_sorts/insertion_sort |
+|selection_sort| ✔️ | ❌ | simple_sorts/selection_sort |
+|  |  |  |  |
+|5_lab| ❌ | ❌ |  |
