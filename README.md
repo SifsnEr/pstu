@@ -46,13 +46,13 @@
 |recursion| ❌ | ❌ |
 
 ## SEM 2
-|   | code | flowchart |  |
-| - | ------------- | ------------- | - |
-|4_lab| ✔️ | ✔️ | 4_lab |
-|  |  |  |  |
-|simple_sorts|  |  |  |
-|bubble_sort| ✔️ | ❌ | simple_sorts/bubble_sort |
-|insertion_sort| ✔️ | ❌ | simple_sorts/insertion_sort |
-|selection_sort| ✔️ | ❌ | simple_sorts/selection_sort |
-|  |  |  |  |
-|5_lab| ❌ | ❌ |  |
+|   | code | flowchart |
+| - | ------------- | ------------- |
+|[4_lab](https://github.com/SifsnEr/pstu/tree/main/Sem_2/4_lab)| ✔️ | ✔️ |
+|  |  |  |
+|[simple_sorts](https://github.com/SifsnEr/pstu/tree/main/Sem_2/simple_sorts)|  |  |
+|[bubble_sort](https://github.com/SifsnEr/pstu/tree/main/Sem_2/simple_sorts/bubble_sort)| ✔️ | ❌ |
+|[insertion_sort](https://github.com/SifsnEr/pstu/tree/main/Sem_2/simple_sorts/insertion_sort)| ✔️ | ❌ |
+|[selection_sort](https://github.com/SifsnEr/pstu/tree/main/Sem_2/simple_sorts/selection_sort)| ✔️ | ❌ |
+|  |  |  |
+|5_lab| ❌ | ❌ |
