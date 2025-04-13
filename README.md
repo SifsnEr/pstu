@@ -43,7 +43,7 @@
 |recursion| | |
 |recursion| ❌ | ❌ |
 
-## SEM 1
+## SEM 2
 |   | code  | flowchart |
 | - | ------------- | ------------- |
 |4_lab| ✔️ | ✔️ |
