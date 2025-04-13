@@ -1,6 +1,6 @@
 ### Якупов Артем ИВТ-24-1б
 # CHECKLIST
-[SEM 1](https://github.com/SifsnEr/pstu/blob/main/README.md#sem-1)
+[SEM 1](https://github.com/SifsnEr/pstu/tree/main#sem-1)
 [SEM 2](https://github.com/SifsnEr/pstu/blob/main/README.md#sem-2)
 ## SEM 1
 
