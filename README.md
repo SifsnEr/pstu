@@ -1,5 +1,6 @@
 ### Якупов Артем ИВТ-24-1б
 # CHECKLIST
+[SEM 2](https://github.com/SifsnEr/pstu/blob/main/README.md#sem-2)
 ## SEM 1
 
 |   | code  | flowchart |
