@@ -53,5 +53,5 @@
 |bubble_sort| ✔️ | ❌ | simple_sorts/bubble_sort |
 |insertion_sort| ✔️ | ❌ | simple_sorts/insertion_sort |
 |selection_sort| ✔️ | ❌ | simple_sorts/selection_sort |
-|  | ------------- | ------------- |  |
+|  |  |  |  |
 |5_lab| ❌ | ❌ | - |
