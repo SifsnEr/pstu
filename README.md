@@ -1,5 +1,63 @@
 ### Якупов Артем ИВТ-24-1б
-
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+          &&&&&&&&$$$&$$$&&&&&&$$$$X$$$$$$$Xxxx++++++++++xX$$$&$$$$XXXXXXXXXXXXXXXXXXXXXXX          
+          &&&&&&&&$$$$$$$$$$$$XXX$XXXXXXXxxxxxXxxxxx+++;;;+X$$$$$$$$XXXXXXXXXXXXXXXXXXXXXX          
+          &&&&&&&&$$$$$$$$$$$XXXXXXXXxxxx+++++++++++;;;;;;++++X$XX&$XXXXXXXXXXXXX$XXXXXXXX          
+          &&&&&&&&$$$$$$$$$$$$XXXXXxxx++++;;;;;;;;;;;::;;;;;;;;+$$$$XXXXXXXXXXXXxXXXXXXXXX          
+          &&&&&$$$$$$$$XXX$$$XXXXXxx++++xxxx+;;;;;;;;;;;;;;;;;:;+$$$XXXXXXXXXXXXXXXXXXXXXX          
+          &&&&&&&&$$$$$XXXXXXXXXXxxx+++++xxxx+;;;;;:;;;;;;;;;;;;;xXX$XXXXXXXXX$$XXXXXXXXXX          
+          &&&&&&&$$$$$$XXXXXXXXXXXxx++++xxXXXx++;;;;;+++++xx+;;;;+XX$XXXXXXXXXXXXXXxXXXXXX          
+          &&$$$$$$$$$$XXXXXXXX$$XXx+;;xX$&&&$$xx+;;;+xxXX$&&$x+;+++XXXXXXXXxXXXXXXXXXXXXXX          
+          $$$$$$&$$$XXXXXXXXXX$$Xx+;;x$$$$$&&$Xxx+;+xX$&&&$$XXX+++xXXXXXXXxxxxxxXXXXXXXXXX          
+          $$$$$$$$$$$XXXXXXXXX$$X+;;+$XXxX$$X$XXx+;+xX&&$X$X$xXXXXXXXXXXXxx+xxxxxxXXXXXXXX          
+          $$$$$$$$$$$XXXXXXXXX$$X+;;+$$XxxXXXXXXx+;+xX$$$X$XXX$XXXXXxX$XXx+++++xxXXXxxxxxx          
+          &&$$$$$$$$$XXXXXXXXX$Xx++;;+XXXXXX$XXXx;++xX$XXXxXXXx;:;+xxXXXX++++++xXxxxxxXxXX          
+          &&&&&&&&$$$XXXXXX$X$XXXx++;;;+xxXx+xxxx;+xxXX;::::;::::;+xxxxxx+x++++xxx+xxxxxXX          
+          &&&&&&&$$$$$XXXX$$$$XXXxxx+;;;;;::;;+x+:;xxxx;::::::::;xxxxxxXx+++++++++++xxxxXX          
+          &&&&&&&$$$$$XX$$$$$$$$XXxxx++;;::::;+x+:;xXX+;;;:::::;++xxXXXXxx+++x++++++xxXXxX          
+          &$&&&$$$$XXXXXXXX$$$$$$XXxx++;;:::;+xx+:;+xXX+;;;::::;;++xXXXxx++;+x++++++xxXXxx          
+          &&&&&&$$$$$XXXXXXxxX$$$$XXx++;;;;++x+x;::+;;xx+++;;;:;;+xxXXXxx+++xx+++++++++xXX          
+          &&&$$$&$$XXXXXXXXXxX$$$$$XXx+;;+++xXxx;::;+xXXx++++++++xxX$XXxx+++x+;;:;;;;++xXX          
+          &&&&&$$$$$$$XXXxxx$xX$$&&$$Xx+++++x$&$x;;x$$Xx++++++xX$$$$XXXxx++xxx+;;;;;;+xXXX          
+          &&&&&&$$$$$$$XXXX+xXXXX$$$&&&Xx++;+++XXXXXXx+;;;+xXX$$$$$X+xxxx+xXXXXx++;;+xX$$$          
+          &&&&&&&$$$$$$XXXXXxxX$xX$$&&&&$$Xx++++;;xx+;++xxX$$$$$$Xxx+xxxxxX$XxX$X++;;+$$$$          
+          &&&&&&&&$$$XXXXXXXxxXxXX$XXXX$&&&&&&$XXXXX$$&&&&&&$$Xxxxx+xxXXXXXXx;+xXXx+;;x$$$          
+          &&&&&&&&$$$$XXXXxXXxxxXxXXXX$$$&&&&&&xxX$&&&&&&&&&XxxxxxxxX$XxxxxXX++xXXXxXXX$$$          
+          &&&&&&&&$$$$XXXXXXxXXXXXXXXX$$$&&&&&$;:x&&&&&&&&&$X+xxxxx+xXx++xxxX++xxXX$$$$$$$          
+          &&$$$$$$$$$$$$$XXXxxxXXXXXXX$X$&&&&&&&$&&&&&&&&&&$xxXxxx+++x+XXXxx+;+xxXX$$$XX$$          
+          $$XXXX$XX$$$$$$$XXXXx+X$XXXX$XXX$$$$&&&&&&&&$$$$X++xXxxx+xxxxxXx+;;++xXX$$$$$$$$          
+          $$$$$$$$XX$$$$$$$$$$$XXXxXXX$XXxX$Xx++xxxxxXX$$$++xXXXXxxx++++;+;;;;+xXX$$$$$$$$          
+          $$&&$$$XXX$$$$$$$$X$$XXxXXX$$$XxxXXXXxx+++xxXXXx+xxXXXXXX$+++++;;x+xxX$$$$$$$$$$          
+          $&&&&$$X$$$$$$$$$$$XXXXX&$X$$$XXXxxxxxxXXXXxx+++xxxXX$$$$$x+++++;+++XxxX$$XX$$$$          
+          &$$$&&$$$$XX$$$$$$$XX$$&&$XX$$XXXXxxx++++;;;;+xxxxxXX$XX$$XX++;x;;;+++XXXXXXX$$$          
+          &&&&&&&$$$$XX$$$$$$XX$$&&$$X$$$XXXXxxxxx++++xxxxxxxX$$$X$$$X+;::;;;;+xXXXXXXXXXX          
+          &&&&&&&$$$$XX$$$XXX$$&&&&$$X$$$XXXXXXxxxxxxxxxxxxxxX$$$X$$&$Xx++;x++++xxxXXXXXXX          
+          &&$&&&&&&$$$X$$XXXX$&&&&&&&&$$$XXXXXXXXxxxxxxxxxxxxX$$$X$$$&$Xx++;;++xxxxxXXXXXX          
+          &$$$$&&$$$XXXXXX$X$&&&&&&&&&&$$XXxXXXXXXXXXxxxxxxxx$&&$$&$$&$$Xx+++++++xxxXXXXXX          
+          &&&&&&$$$XXXXXxxX$&&&&&&&&&&&$$XXXxxXXXXXxxxxxxxxX$&&$$&&$$&$$$xxxxxxxxxxxXXXXXX          
+          &&&&&&$&$$$XxXX$$&&&&&&&&&&&&&$XXXXxxxxxx++xxxxxXX&&$$$&&$&&$$$XXXx+xxxxxxXXXXXX          
+          &&&&&&&&&$X$&&&$&&&&&&&&&&&$$&&$XXXxxxxxxxxxXXXXX&&&$$&&&&&&$$$$XXXXxx+xxxXXXXXX          
+          &&&&$$$$$$$&&&&&&&&&&&&&&&&&&&&&$XXXxxxx++xxXXXX&$$$$$&&$$&&$$$$$$XXXXxxxxxXXXXX          
+          &&$$$$&&&$&&&$&&&&&&&&&&&$&&&&&&&$XXXxx+++xXXX$&&&$$$&&$$$&&$$$$X$XXXXXXXXxxXXXX          
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
 # CHECKLIST
 [SEM 1](https://github.com/SifsnEr/pstu/tree/main#sem-1)
 [SEM 2](https://github.com/SifsnEr/pstu/tree/main#sem-2)
