@@ -1,4 +1,6 @@
 ### Якупов Артем ИВТ-24-1б
+![image](https://github.com/user-attachments/assets/7220c30a-bb50-4df4-9f34-c6e8e7791ae6)
+
 # CHECKLIST
 [SEM 1](https://github.com/SifsnEr/pstu/tree/main#sem-1)
 [SEM 2](https://github.com/SifsnEr/pstu/tree/main#sem-2)
